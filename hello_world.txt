@@ -1,0 +1,2 @@
+Add some text. Should I be doing this in the command line?
+Can you just open a text file in the command line?
